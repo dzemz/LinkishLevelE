@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fonts/RAZER.ttf</file>
+        <file>fonts/RAZEROBLIQUE.ttf</file>
+    </qresource>
+</RCC>

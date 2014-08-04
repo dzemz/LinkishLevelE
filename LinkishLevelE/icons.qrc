@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>images/Close.png</file>
+        <file>images/Document.png</file>
+        <file>images/Floppy.png</file>
+        <file>images/Folder.png</file>
+        <file>images/Close Square.png</file>
+        <file>images/Pause.png</file>
+        <file>images/Play.png</file>
+        <file>images/Backward.png</file>
+        <file>images/Forward.png</file>
+        <file>images/Previous.png</file>
+        <file>images/Next.png</file>
+        <file>images/Down.png</file>
+        <file>images/Up.png</file>
+        <file>images/Add Square.png</file>
+        <file>images/Remove Square.png</file>
+        <file>images/Black Board.png</file>
+        <file>images/Bonsai.png</file>
+        <file>images/Clapperboard Open.png</file>
+        <file>images/Green Chalkboard.png</file>
+        <file>images/Images night scene.png</file>
+        <file>images/Images.png</file>
+        <file>images/Library Occupied.png</file>
+        <file>images/Magic Wand.png</file>
+        <file>images/Movies.png</file>
+        <file>images/Music.png</file>
+        <file>images/Soccer Ball.png</file>
+        <file>images/Speaker.png</file>
+        <file>images/Tree.png</file>
+        <file>images/Wand.png</file>
+        <file>images/Caution.png</file>
+        <file>images/Plus.png</file>
+        <file>images/Inbox Full.png</file>
+        <file>images/Inbox.png</file>
+        <file>images/Note-Add.png</file>
+        <file>images/Note-Remove.png</file>
+        <file>images/Maximize Square.png</file>
+        <file>images/Minimize Square.png</file>
+        <file>images/Node Select All.png</file>
+        <file>images/Node Select.png</file>
+    </qresource>
+</RCC>
