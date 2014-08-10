@@ -1,4 +1,4 @@
 LinkishLevelE
 =============
 
-Level Editor for Linkish
+Level Editor for Linkish (Qt, C++)
