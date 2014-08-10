@@ -1,0 +1,5 @@
+orb_1:160,100:orb_3,orb_5,orb_2,
+orb_2:60,240:orb_1,orb_4,orb_3,
+orb_3:160,240:orb_1,orb_2,orb_5,
+orb_4:160,370:orb_2,orb_5,
+orb_5:260,240:orb_1,orb_3,orb_4,
